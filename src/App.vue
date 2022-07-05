@@ -1,9 +1,7 @@
 <template>
   <div>
     <Book>
-      <tbody>
-        <tr></tr>
-      </tbody>
+
     </Book>
   </div>
 </template>
